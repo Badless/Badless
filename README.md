@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm BadlessTV</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h1 align="center">Hi 👋, I'm DevBadless</h1>
+<h3 align="center">A fullstack developer from Poland</h3>
 
 <p align="left"> <a href="https://twitter.com/devbadless" target="blank"><img src="https://img.shields.io/twitter/follow/devbadless?logo=twitter&style=for-the-badge" alt="devbadless" /></a> </p>
-
-- 🔭 I’m currently working on [Rebel Client](https://dsc.gg/rebelclient)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
