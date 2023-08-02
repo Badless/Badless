@@ -41,3 +41,17 @@
 </div>
 
 ###
+
+<h2 align="center">Rate Me!</h2>
+<table>
+  <tr>
+    <td>
+      ⭐⭐⭐⭐
+    </td>
+    <td>
+      <a href="https://github.com/qubiX00">@qubiX00</a>
+    </td>
+  </tr>
+</table>
+
+###
