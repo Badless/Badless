@@ -42,16 +42,7 @@
 
 ###
 
-<h2 align="center">Rate Me!</h2>
-<table>
-  <tr>
-    <td>
-      ⭐⭐⭐⭐
-    </td>
-    <td>
-      <a href="https://github.com/qubiX00">@qubiX00</a>
-    </td>
-  </tr>
-</table>
+<h2 align="center">Shortly About Me!</h2>
+<h3>I love hard ways. I am interested in wgpu, physics and I just started loving math, thanks to wgpu ❤️</h3>
 
 ###
