@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="center">Shortly About Me!</h2>
+<h2 align="center">Briefly About Me!</h2>
 <h3>I love hard ways. I am interested in wgpu, physics and I just started loving math, thanks to wgpu ❤️</h3>
 
 ###
