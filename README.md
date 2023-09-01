@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Bartosz and I'm a Rust Developer, from Poland.</h2>
+<h2 align="center">Hi! My name is Bartosz and I'm a Rust Developer from Poland.</h2>
 
 ###
 
